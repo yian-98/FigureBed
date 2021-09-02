@@ -1,0 +1,2 @@
+# FigureBed
+yian图床
